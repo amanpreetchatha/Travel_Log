@@ -1,0 +1,9 @@
+Requirements
+User registeration
+Login
+Logout
+Dashboard after Login
+login page after Logout
+on Dashboard 2 buttons, one for exit and one for entry
+on Dashboard a scrollable table that displays all the previous exit and entries
+database connections to facilitate all these steps
