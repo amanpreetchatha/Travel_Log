@@ -13,8 +13,12 @@ function App() {
         <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap" rel="stylesheet"/>
       </head>
       <body>
-        
-      
+        <header>
+          <h1>Record Your Travel History</h1>
+        </header>
+        <nav>
+          This is a navigation bar
+        </nav>
         <section>
           <h3>Select an option: </h3>
           <button
@@ -50,6 +54,9 @@ function App() {
             </tbody>
           </table>
         </section>
+        <footer>
+          <h2>Use this section for some purpose</h2>
+        </footer>
       </body>
     </html>
   )
